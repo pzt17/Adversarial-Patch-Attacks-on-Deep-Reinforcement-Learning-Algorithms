@@ -1,0 +1,7 @@
+numpy
+gym==0.17.1
+procgen
+torch
+torchvision
+six
+pfrl
