@@ -1,0 +1,42 @@
+
+coinrun percent image:0.005 average reward:7.807808 reward std:0.22671579799217573
+coinrun percent image:0.01 average reward:7.8830085 reward std:0.2156047754759743
+coinrun percent image:0.03 average reward:7.7647057 reward std:0.18447807319139872
+coinrun percent image:0.05 average reward:7.4570446 reward std:0.18050583335728618
+
+
+fruitbot percent image:0.005 average reward:26.386139 reward std:0.9719092105359608
+fruitbot percent image:0.01 average reward:27.50505 reward std:0.8551176488979516
+fruitbot percent image:0.03 average reward:26.0 reward std:0.9911875246890886
+fruitbot percent image:0.05 average reward:24.75 reward std:1.0548694510729186
+
+ 
+jumper percent image:0.005 average reward:5.6666665 reward std:0.4046031719463318
+jumper percent image:0.01 average reward:5.9322033 reward std:0.3692334162765733
+jumper percent image:0.03 average reward:6.0869565 reward std:0.35978952692553956
+jumper percent image:0.05 average reward:6.3333335 reward std:0.33253872711736077
+
+coinrun percent image:0.005 average reward:7.428571 reward std:0.4265257443347354
+coinrun percent image:0.01 average reward:7.6576576 reward std:0.40198670866338554
+coinrun percent image:0.03 average reward:7.841727 reward std:0.3489407465900576
+coinrun percent image:0.05 average reward:7.7310925 reward std:0.38393293188172944
+fruitbot percent image:0.005 average reward:27.206896 reward std:1.6895701552085143
+fruitbot percent image:0.01 average reward:27.172413 reward std:1.7179675289446141
+fruitbot percent image:0.03 average reward:25.935484 reward std:2.1265555792764994
+fruitbot percent image:0.05 average reward:23.09091 reward std:2.2178686606594598
+jumper percent image:0.005 average reward:5.78125 reward std:0.6173234581947327
+jumper percent image:0.01 average reward:6.419753 reward std:0.5326882468329536
+jumper percent image:0.03 average reward:6.3414636 reward std:0.5319141078605648
+jumper percent image:0.05 average reward:6.3636365 reward std:0.5482024245806363
+coinrun percent image:0.005 average reward:8.26087 reward std:0.558856225980353
+coinrun percent image:0.01 average reward:7.111111 reward std:0.6756595603925579
+coinrun percent image:0.03 average reward:8.653846 reward std:0.4733150175986769
+coinrun percent image:0.05 average reward:6.9387755 reward std:0.6584016936165946
+fruitbot percent image:0.005 average reward:28.5 reward std:3.4731110515402226
+fruitbot percent image:0.01 average reward:24.333334 reward std:4.309048652648926
+fruitbot percent image:0.03 average reward:28.25 reward std:3.6689151944781937
+fruitbot percent image:0.05 average reward:17.636364 reward std:4.738226384838374
+jumper percent image:0.005 average reward:6.1764708 reward std:0.8334181340562341
+jumper percent image:0.01 average reward:7.2 reward std:0.8979977607727051
+jumper percent image:0.03 average reward:6.590909 reward std:0.7146042805468482
+jumper percent image:0.05 average reward:5.9375 reward std:0.8682074619417395

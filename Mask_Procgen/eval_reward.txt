@@ -1,0 +1,32 @@
+
+coinrun percent image:0.005 average reward:6.76 reward std:4.68
+coinrun percent image:0.01 average reward:6.22 reward std:4.85
+coinrun percent image:0.03 average reward:4.85 reward std:5.00
+coinrun percent image:0.05 average reward:5.82 reward std:4.93
+
+fruitbot percent image:0.005 average reward:4.17 reward std:10.47
+fruitbot percent image:0.01 average reward:-0.73 reward std:4.71
+fruitbot percent image:0.03 average reward:-1.70 reward std:3.93
+fruitbot percent image:0.05 average reward:-1.33 reward std:3.86
+
+jumper percent image:0.005 average reward:4.00 reward std:4.90
+jumper percent image:0.01 average reward:4.09 reward std:4.92
+jumper percent image:0.03 average reward:2.94 reward std:4.56
+jumper percent image:0.05 average reward:2.56 reward std:4.36
+
+
+---------------------------------------------------------------------
+coinrun percent image:0.005 average reward:6.42 reward std:4.80
+coinrun percent image:0.01 average reward:6.51 reward std:4.77
+coinrun percent image:0.03 average reward:5.83 reward std:4.93
+coinrun percent image:0.05 average reward:5.33 reward std:4.99
+
+fruitbot percent image:0.005 average reward:19.96 reward std:12.47
+fruitbot percent image:0.01 average reward:17.45 reward std:12.25
+fruitbot percent image:0.03 average reward:6.40 reward std:9.14
+fruitbot percent image:0.05 average reward:2.16 reward std:7.30
+
+jumper percent image:0.005 average reward:4.22 reward std:4.94
+jumper percent image:0.01 average reward:4.38 reward std:4.96
+jumper percent image:0.03 average reward:3.59 reward std:4.80
+jumper percent image:0.05 average reward:3.00 reward std:4.58
